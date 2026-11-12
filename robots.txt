@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nativo360ads.github.io/classsaude/sitemap.xml
